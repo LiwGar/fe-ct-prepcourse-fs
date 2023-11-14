@@ -80,10 +80,10 @@ function colors(color) {
          return ("This is green");
          break;
       case "orange":
-            return ("This is orange");
-            break;
+         return ("This is orange");
+         break;
       default:
-            return ("Color not found");
+         return ("Color not found");
    }
 }
 
